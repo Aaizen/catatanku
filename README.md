@@ -1,4 +1,4 @@
-# Aplikasi flutter untuk catatan harian secara offline.
+# Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
